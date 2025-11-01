@@ -35,19 +35,17 @@ linkify/
 
 ├── 📂 public/
 
-     └── 📄 index.html          # Main Frontend Page (UI)
-   └── 📄 style.css           # Modern Animated Glassmorphic Design
-
-└── 📄 index.js            # Frontend Logic (Fetch + Display URLs)
-
-│
+         📄 index.html          # Main Frontend Page (UI)
+         📄 style.css           # Modern Animated Glassmorphic Design
+         📄 index.js            # Frontend Logic (Fetch + Display URLs)
+     
 ├── 📂 data/
-│   └── 📄 link.json           # Stores shortened URLs (JSON format)
-│
+         📄 link.json           # Stores shortened URLs (JSON format)
+     
 ├── 📄 server.js               # Node.js Server (Backend Logic)
-│
+
 ├── 📄 README.md               # Full Documentation (GitHub Display)
-│
+
 └── 📄 package.json            # Node.js Project Metadata (optional but recommended)
 
 ---
@@ -119,6 +117,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
