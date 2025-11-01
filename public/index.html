@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>URL Shortener</title>
+</head>
+
+<body>
+  <div class="container">
+    <!-- 🔗 Animated Logo Header -->
+    <div class="logo-header">
+      <div class="logo-icon">🔗</div>
+      <h1 class="logo-text">Linkify</h1>
+      <p class="tagline">Shorten your long links into something beautiful ✨</p>
+    </div>
+
+    <form id="shortener-form">
+      <div>
+        <label for="url">Enter URL :</label>
+        <input type="url" name="url" id="url" placeholder="https://example.com" required>
+      </div>
+      <div>
+        <label for="shortCode">Enter shortCode :</label>
+        <input type="text" name="shortCode" id="shortCode" placeholder="myshortcode" required>
+      </div>
+      <button type="submit">Shorten</button>
+    </form>
+
+    <h2>Shortened URLs</h2>
+    <ul id="shortened-urls"></ul>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+
+</html>
