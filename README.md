@@ -50,17 +50,17 @@ project/
 ## ⚡ Installation & Setup
 
 ### 1️⃣ Clone this repository
-```bash
+
 git clone https://github.com/<your-username>/linkify.git
 cd linkify
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 npm install
 
-3️⃣ Start the server
+### 3️⃣ Start the server
 node server.js
 
-4️⃣ Open in your browser
+### 4️⃣ Open in your browser
 👉 http://localhost:3000
 
 
@@ -102,6 +102,7 @@ Node.js Developer
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
