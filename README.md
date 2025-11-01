@@ -71,7 +71,7 @@ node server.js
 
 ---
 
-###  🧠  How It Works
+##  🧠  How It Works
 
 1️⃣ The user enters a full URL and an optional custom short code.
 
@@ -83,7 +83,7 @@ node server.js
 
 ---
 
-🪄 Future Enhancements
+## 🪄 Future Enhancements
 
 ✨ Add Copy button beside shortened URLs
 
@@ -97,7 +97,7 @@ node server.js
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome!
 If you'd like to improve the UI or add backend features, fork the repository and open a PR.
@@ -105,7 +105,7 @@ Let's make Linkify even better together 💪
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Dhruvin Paghdal
 
@@ -117,9 +117,10 @@ Dhruvin Paghdal
 
 ---
 
-🪪 License
+## 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
