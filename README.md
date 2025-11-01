@@ -63,27 +63,41 @@ node server.js
 ### 4️⃣ Open in your browser
 👉 http://localhost:3000
 
+---
 
-###  🧠 🧠 How It Works
+###  🧠  How It Works
 
 1️⃣ The user enters a full URL and an optional custom short code.
+
 2️⃣ The server saves the mapping inside data/link.json.
+
 3️⃣ When someone visits that short code, it redirects to the original URL.
+
 4️⃣ The UI dynamically updates and displays all shortened links in real time..
+
+---
 
 🪄 Future Enhancements
 
 ✨ Add Copy button beside shortened URLs
+
 📊 Add click counters & analytics
+
 🗃️ Connect to MongoDB for persistent storage
+
 🔐 Add authentication system (user login)
+
 🚀 Deploy to Render / Vercel / Netlify
+
+---
 
 🤝 Contributing
 
 Pull requests are welcome!
 If you'd like to improve the UI or add backend features, fork the repository and open a PR.
 Let's make Linkify even better together 💪
+
+---
 
 🧑‍💻 Author
 
@@ -97,6 +111,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
