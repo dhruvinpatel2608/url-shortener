@@ -30,28 +30,21 @@ Linkify allows users to generate custom short links easily, with a beautiful ani
 
 ---
 
-## 📁 Project Structure
-
-project/
-
+linkify/
 │
-
-├── public/
-
- ├── index.html # Main UI
-
- ├── style.css # Beautiful animated design
-
- └── index.js # Frontend script
-
-├── data/
-
- └── link.json # Stores short links
-
-├── server.js # Core Node.js server
-
-└── README.md # Project documentation
-
+├── 📂 public/
+│   ├── 📄 index.html          # Main Frontend Page (UI)
+│   ├── 📄 style.css           # Modern Animated Glassmorphic Design
+│   └── 📄 index.js            # Frontend Logic (Fetch + Display URLs)
+│
+├── 📂 data/
+│   └── 📄 link.json           # Stores shortened URLs (JSON format)
+│
+├── 📄 server.js               # Node.js Server (Backend Logic)
+│
+├── 📄 README.md               # Full Documentation (GitHub Display)
+│
+└── 📄 package.json            # Node.js Project Metadata (optional but recommended)
 
 ---
 
@@ -122,6 +115,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
