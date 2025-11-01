@@ -102,15 +102,21 @@ Let's make Linkify even better together 💪
 🧑‍💻 Author
 
 Dhruvin Paghdal
+
 🌐 Node.js Developer
+
 💼 Passionate about building scalable web apps and learning full-stack technologies.
+
 🔗 GitHub Profile
 
 💼 Passionate about building scalable web apps and learning full-stack technologies.
 
+---
+
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
