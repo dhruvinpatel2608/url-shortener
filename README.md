@@ -40,6 +40,7 @@ linkify/
          📄 index.js            # Frontend Logic (Fetch + Display URLs)
      
 ├── 📂 data/
+
          📄 link.json           # Stores shortened URLs (JSON format)
      
 ├── 📄 server.js               # Node.js Server (Backend Logic)
@@ -117,6 +118,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
