@@ -1,6 +1,6 @@
 # 🌐 Linkify — Modern URL Shortener (Node.js)
 
-A modern and visually appealing **URL Shortener** built with **Node.js** and vanilla JavaScript.  
+A modern and visually appealing **URL Shortener** built with **Node.js** and JavaScript.  
 Linkify allows users to generate custom short links easily, with a beautiful animated glassmorphic UI and simple backend powered by Node.js file storage.
 
 ---
@@ -23,7 +23,7 @@ Linkify allows users to generate custom short links easily, with a beautiful ani
 
 | Layer | Technology |
 |--------|-------------|
-| Frontend | HTML, CSS (glassmorphism + animations), Vanilla JS |
+| Frontend | HTML, CSS (glassmorphism + animations), JS |
 | Backend | Node.js (HTTP module) |
 | Storage | JSON file (local) |
 | Styling | Custom CSS with gradients and blur effects |
@@ -118,6 +118,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
