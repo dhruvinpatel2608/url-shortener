@@ -30,6 +30,8 @@ Linkify allows users to generate custom short links easily, with a beautiful ani
 
 ---
 
+📁 Folder Structure
+
 linkify/
 │
 
@@ -118,6 +120,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
