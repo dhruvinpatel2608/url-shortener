@@ -32,6 +32,7 @@ Linkify allows users to generate custom short links easily, with a beautiful ani
 
 linkify/
 │
+
 ├── 📂 public/
 
    └── 📄 index.html          # Main Frontend Page (UI)
@@ -119,6 +120,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
