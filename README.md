@@ -38,19 +38,15 @@ project/
 
 ├── public/
 
-│ ├── index.html # Main UI
+ ├── index.html # Main UI
 
-│ ├── style.css # Beautiful animated design
+ ├── style.css # Beautiful animated design
 
-│ └── index.js # Frontend script
-
-│
+ └── index.js # Frontend script
 
 ├── data/
 
-│ └── link.json # Stores short links
-
-│
+ └── link.json # Stores short links
 
 ├── server.js # Core Node.js server
 
@@ -126,6 +122,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
