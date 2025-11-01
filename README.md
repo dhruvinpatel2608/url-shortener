@@ -64,7 +64,7 @@ node server.js
 👉 http://localhost:3000
 
 
-🧠 How It Works
+## 🧠 How It Works
 
 User enters a full URL and optional custom short code.
 
@@ -102,5 +102,6 @@ Node.js Developer
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
