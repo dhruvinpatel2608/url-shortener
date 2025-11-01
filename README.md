@@ -57,3 +57,48 @@ cd linkify
 2️⃣ Install dependencies
 npm install
 
+3️⃣ Start the server
+node server.js
+
+4️⃣ Open in your browser
+👉 http://localhost:3000
+
+🧠 How It Works
+
+User enters a full URL and optional custom short code.
+
+The server stores the mapping inside data/link.json.
+
+When someone visits the short link, it redirects to the original URL.
+
+The UI dynamically lists all shortened links with instant refresh.
+
+🪄 Future Enhancements
+
+ Add Copy button beside shortened URLs
+
+ Add click counters & analytics
+
+ Connect to MongoDB for persistent storage
+
+ Add authentication system (user login)
+
+ Deploy to Render / Vercel
+
+🤝 Contributing
+
+Pull requests are welcome!
+If you'd like to improve UI or add backend features, fork the repo and open a PR.
+
+🧑‍💻 Author
+
+Dhruvin Paghdal
+Node.js Developer
+🔗 GitHub Profile
+
+💼 Passionate about building scalable web apps and learning full-stack technologies.
+
+🪪 License
+
+This project is open-source under the MIT License — feel free to modify and use it.
+
