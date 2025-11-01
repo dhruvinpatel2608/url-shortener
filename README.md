@@ -109,13 +109,12 @@ Dhruvin Paghdal
 
 🔗 GitHub Profile
 
-💼 Passionate about building scalable web apps and learning full-stack technologies.
-
 ---
 
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
