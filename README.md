@@ -29,8 +29,8 @@ Linkify allows users to generate custom short links easily, with a beautiful ani
 | Styling | Custom CSS with gradients and blur effects |
 
 ---
-
-📁 Folder Structure
+**
+📁 Folder Structure**
 
 linkify/
 │
@@ -120,6 +120,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
