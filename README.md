@@ -35,11 +35,10 @@ linkify/
 
 ├── 📂 public/
 
-   └── 📄 index.html          # Main Frontend Page (UI)
-   
+     └── 📄 index.html          # Main Frontend Page (UI)
    └── 📄 style.css           # Modern Animated Glassmorphic Design
 
-   └── 📄 index.js            # Frontend Logic (Fetch + Display URLs)
+└── 📄 index.js            # Frontend Logic (Fetch + Display URLs)
 
 │
 ├── 📂 data/
@@ -120,6 +119,7 @@ Dhruvin Paghdal
 🪪 License
 
 This project is open-source under the MIT License — feel free to modify and use it.
+
 
 
 
